@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/proxy/*"
+  to = "https://www.api주소.shop/:splat"
+  status = 200
+  force = true
