@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+# Planting
+## 프로젝트 소개
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Planting은 단순히 프로젝트를 관리하는 도구를 넘어 협업의 즐거움과 아이디어를 발전시키는 플랫폼입니다.
 
-## Available Scripts
+씨앗을 심어 성장 시키듯이 Planting은 협업과 작업 관리를 즐겁게 이끌어가고 프로젝트를 키워나갈 수 있도록 디자인 되었습니다.
 
-In the project directory, you can run:
+함께 심어 나가고, 서로에게 영감을 주며, 결실을 맺어나가는 과정을 Planting과 함께 즐겨보세요!
 
-### `yarn start`
+[🌱 Planting 바로가기](https://plant-ing.vercel.app/)
+![플랜_칸반](https://github.com/Side-Project-Planting/Frontend/assets/62870362/4da28572-ec81-4c43-962b-91e165daa6f4)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 프로젝트 기능
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### 📋 심플한 칸반보드로 즐거운 작업 관리
+- 쉽게 작업을 만들고, 할당하며 추적할 수 있어요. 
+- 사용자 정의 가능한 라벨로 작업을 개성있게 분류해요.
 
-### `yarn test`
+#### 📂 프로젝트 전용 작업 공간
+- 각 프로젝트마다 전용 작업 공간을 만들어서 진행 상황을 관리해요.
+- 팀원들을 초대해 즐겁게 협업을 진행해봐요.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### ⏱️ 실시간 업데이트
+- 작업의 변경 사항이 실시간으로 업데이트 되어 놓치는 일이 없을 거에요.
 
-### `yarn build`
+#### 👀 나만의 대시 보드로 핵심 현황을 한눈에
+- 각 프로젝트에 대한 내 작업들만 모아 보여줘서 한눈에 파악할 수 있어요.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 아키텍처
+![image](https://github.com/Side-Project-Planting/.github/assets/73357200/34d6bb29-441c-456c-831e-7df472811617)
